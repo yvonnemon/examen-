@@ -37,3 +37,9 @@ public class Matricula {
     }
 
 }
+class Estudiante{
+    private String nom = "";
+    private String cognoms = "";
+    private String dni = "";
+
+}
